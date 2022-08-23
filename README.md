@@ -10,6 +10,8 @@ We have 24 months of transactional level data available for 1750 households and 
 
 For certain households, demographic information as well as direct marketing/ campaign history is also available.
 
+Based on data, the task is to predict potential customers for a segment of product.
+
 ## Data 
 
 hh_demographic: This table contains demographic information for a portion of households. Due to nature of the data, the demographic information is not available for all households.
