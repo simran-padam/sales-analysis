@@ -1,7 +1,5 @@
 # sales-analysis
 
-# Sales Analysis 
-
 ## Objective
 
 To predict Sales for Nutrition Department in the next 3 months. 
