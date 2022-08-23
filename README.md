@@ -32,5 +32,5 @@ Source : https://www.kaggle.com/competitions/sales-analysis/
 
 ## Contribution effort:
 
-100% individual contribution on the workings and submissions of the project
+100% individual contribution on the working and submission of the project
 
